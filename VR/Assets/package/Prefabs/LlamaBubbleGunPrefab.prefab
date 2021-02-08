@@ -433,6 +433,7 @@ SkinnedMeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -1379,7 +1380,7 @@ PrefabInstance:
     - target: {fileID: 7944527142741719434, guid: c9b38f9d356cfa945bd7d61fcb8070c9,
         type: 3}
       propertyPath: prewarm
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7944527142741719434, guid: c9b38f9d356cfa945bd7d61fcb8070c9,
         type: 3}
